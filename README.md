@@ -7,8 +7,6 @@
 
 - 📫 To reach me **acpsiam@gmail.com**
 
-- ⚡ Fun fact: **I'm a self-proclaimed expert at procrastination.**
-
 
 
 <br>
