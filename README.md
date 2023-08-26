@@ -14,7 +14,6 @@
 
 
 <a href="https://github.com/acpSiam/BDictionary" target="blank"><img align="center" src="https://github.com/acpSiam/BDictionary/blob/master/screenshots/bdictionary_logo.png" alt="BDictionary" height="50" width="50" /></a>
-
 <a href="https://github.com/acpSiam/BatterYells" target="blank"><img align="center" src="https://github.com/acpSiam/BatterYells/blob/master/screenshots/RoundBatterYells.png" alt="BatterYells" height="50" width="50" /></a>
 
 <br><br>
